@@ -8,5 +8,5 @@ Hi! This is Vatsal, a student from Chandigarh University working on improving my
 - 👯 I’m looking to collaborate on Open Source Projects
 - 🤔 I’m looking for help with Coding 
 - 📫 How to reach me: [...](https://linktr.ee/akenooz)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: None fun about me 
